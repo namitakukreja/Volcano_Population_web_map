@@ -1,4 +1,4 @@
-# Volcano_Population_web_map
+# Volcano And Population Web Map
 
 The python application Volcano and Population web map is graphical representation of the valcanoes errupted at various places in America , along with the world population in 2005.
 
